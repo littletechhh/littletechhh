@@ -1,7 +1,6 @@
-<!--![Hello-Gif](https://user-images.githubusercontent.com/87639952/126128886-c696f222-bd0d-4516-9262-87b33beeb902.gif)-->
+
 - 👋 Hi, I’m @littletechhh
 
-<img src="https://user-images.githubusercontent.com/87639952/126128886-c696f222-bd0d-4516-9262-87b33beeb902.gif" width="300">
 
 <!---
 - 👀 I’m interested in ...
